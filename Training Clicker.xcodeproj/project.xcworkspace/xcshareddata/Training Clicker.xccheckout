@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F83BD1DC-1A13-4791-84A1-BA03CC2C3421</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Training Clicker</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>A4E2F0A191B7415EA2F463644220348871A632BC</key>
+		<string>git.lunarpad.com:ClickerTrainer-iOS.git</string>
+		<key>FC783B2D53CE52E2B212212EE76DF7DD61BF87B2</key>
+		<string>https://github.com/LianaChu/MultiClicker.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Training Clicker.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>A4E2F0A191B7415EA2F463644220348871A632BC</key>
+		<string>../../../ClickerTrainer-iOS</string>
+		<key>FC783B2D53CE52E2B212212EE76DF7DD61BF87B2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/LianaChu/MultiClicker.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FC783B2D53CE52E2B212212EE76DF7DD61BF87B2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A4E2F0A191B7415EA2F463644220348871A632BC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ClickerTrainer-iOS</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FC783B2D53CE52E2B212212EE76DF7DD61BF87B2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ClickerTrainer-iOS%20Lite%20v1.1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
